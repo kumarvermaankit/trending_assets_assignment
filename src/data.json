@@ -1,0 +1,52 @@
+[
+    {
+      "title": "Bitcoin(BTC)",
+      "price": "31912.8",
+      "profit": 10,
+      "TVL": 60000,
+      "serial": 1,
+      "asset-icon": "Bitcoin.png",
+      "pairs": {"firstPair":"SolanaS.png","secondPair":"EthereumS.png","thirdPair":"BinanceS.png"}
+    },
+    {
+      "title": "Solana(SOL)",
+      "price": "32.83",
+      "profit": -12.32,
+      "TVL": 60000,
+      "serial": 2,
+      "asset-icon": "Solana.png ",
+      "pairs": {"firstPair":"SolanaS.png","secondPair":"EthereumS.png","thirdPair":"BinanceS.png"}
+  
+    },
+    {
+      "title": "Ethereum(ETH)",
+      "price": "1466.45",
+      "profit": -11.93,
+      "TVL": 60000,
+      "serial": 3,
+      "asset-icon": "Ethereum.png",
+      "pairs": {"firstPair":"SolanaS.png","secondPair":"EthereumS.png","thirdPair":"BinanceS.png"}
+  
+    },
+    {
+      "title": "Binance USD(BUSD)",
+      "price":"1.00",
+      "profit": 0.26,
+      "TVL": 60000,
+      "serial": 4,
+      "asset-icon": "Binance.png",
+      "pairs": {"firstPair":"SolanaS.png","secondPair":"EthereumS.png","thirdPair":"BinanceS.png"}
+  
+    },
+    {
+      "title": "Shiba Inu(SHIB)",
+      "price": "0.00000001948",
+      "profit": -8.1,
+      "TVL": 60000,
+      "serial": 5,
+      "asset-icon": "SHIBA.png",
+      "pairs": {"firstPair":"SolanaS.png","secondPair":"EthereumS.png","thirdPair":"BinanceS.png"}
+  
+    }
+  ]
+  
